@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.bg{
+    background-color: #07080c;
+    font-family: 'Roboto';
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    color: #ffffff;
+}
+
+.img {
+    height: 300px;
+}
+
+.count {
+    color: #c20a72;
+}
+
+.para {
+    color: #cbd5e1;
+}
+
+.btn1 {
+    background-color:  #007bff;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 5px 20px;
+    border: 2px solid #ffffff;
+}
+
+
+.btn2 {
+    color: #94a3b8;
+    border: 2px solid #94a3b8;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin-left: 10px;
+
+}
