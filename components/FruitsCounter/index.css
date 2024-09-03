@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.bg{
+    background-color:  #ffd569;
+    font-family: 'Roboto';
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart {
+    height: 80vh;
+    width: 80vw;
+    background-color: #ffffff;
+    font-family: 'Roboto';
+}
+
+.head {
+    text-align: center;
+}
+
+span {
+    color: #ffd569;
+}
+
+.fruit-cart {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.f-c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img {
+    height: 40vh;
+    width: 40vw;
+}
+
+
+
+.btn {
+    background-color:  #007bff;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 5px 20px;
+    border: 2px solid #ffffff;
+    margin-top: 20px;
+}
+
